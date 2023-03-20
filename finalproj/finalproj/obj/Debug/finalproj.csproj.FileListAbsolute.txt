@@ -1,0 +1,11 @@
+C:\Users\abdullah\source\repos\finalproj\finalproj\bin\Debug\finalproj.exe.config
+C:\Users\abdullah\source\repos\finalproj\finalproj\bin\Debug\finalproj.exe
+C:\Users\abdullah\source\repos\finalproj\finalproj\bin\Debug\finalproj.pdb
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.csproj.AssemblyReference.cache
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.Form1.resources
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.Form2.resources
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.Properties.Resources.resources
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.csproj.GenerateResource.cache
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.csproj.CoreCompileInputs.cache
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.exe
+C:\Users\abdullah\source\repos\finalproj\finalproj\obj\Debug\finalproj.pdb
